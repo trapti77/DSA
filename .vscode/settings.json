@@ -58,5 +58,8 @@
   "files.associations": {
     "ostream": "cpp",
     "iostream": "cpp"
-  }
+  },
+  "editor.suggest.showWords": false,
+  "editor.suggest.showKeywords": false,
+  "editor.inlineSuggest.edits.showCollapsed": true
 }
